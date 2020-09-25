@@ -9,7 +9,7 @@ Make sure you have node js installed.
 
     $ git clone https://github.com/ps173/Template.git
     $ cd Template
-    $ npm instal 
+    $ npm install
     $ npm start
 
 Your app should now run on local host 3000
